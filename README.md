@@ -1,5 +1,5 @@
 # drawer
 
-A new Flutter project.
+Projeto utilizando Drawer desenvolvido para fins de estudo.
 
 ## Getting Started
